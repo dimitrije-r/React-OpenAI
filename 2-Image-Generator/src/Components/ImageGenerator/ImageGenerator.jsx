@@ -11,14 +11,14 @@ const ImageGenerator=async()=>{
   if(inputRef.current.value==="")return 0;
   
   setLoading(true);
-
+const API_KEY = "API_KEY";
   const response=await fetch("https://api.openai.com/v1/images/generations",
   {
     method:"POST",
     headers:{
       "Content-Type":"application/json",
       Authorization:
-      "Bearer API_KEY",
+      "Bearer " + API_KEY,
       "User-Agent":"Chrome"
     },
     body:JSON.stringify({
