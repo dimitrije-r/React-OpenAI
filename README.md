@@ -1,6 +1,5 @@
 <h2>React + OpenAI API</h2><br>
-
-https://1-hangman.netlify.app/
+<br><b>MAKE SURE TO CHANGE "API_KEY" TO AN ACTUAL OPENAI API KEY</b><br>
 
 <br>Packages used for <b>1-Chat-Bot</b>:<hr>
 @chatscope/chat-ui-kit-react
