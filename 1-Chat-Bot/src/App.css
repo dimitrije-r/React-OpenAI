@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.chat-window{
+  position: relative;
+  width: 750px;
+  height: 95vh;
+}
