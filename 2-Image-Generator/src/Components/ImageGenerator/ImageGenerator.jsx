@@ -18,7 +18,7 @@ const ImageGenerator=async()=>{
     headers:{
       "Content-Type":"application/json",
       Authorization:
-      "Bearer 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",
+      "Bearer API_KEY",
       "User-Agent":"Chrome"
     },
     body:JSON.stringify({
