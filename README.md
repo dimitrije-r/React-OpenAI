@@ -1,6 +1,7 @@
 <h2 align="center">React + OpenAI API</h2><br>
 <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/></div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="OpenAI" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="css" width="40" height="40"/></div>
 <hr>
 
 <b>MAKE SURE TO CHANGE "API_KEY" TO AN ACTUAL OPENAI API KEY</b><br>
