@@ -11,7 +11,7 @@
  <ul>
  <li>Live: -----
  <li>
- Packages used/libraries: chatscope/chat-ui-kit-react
+ Packages/libraries used: chatscope/chat-ui-kit-react
  </li>
  </ul>
  </div>
@@ -20,7 +20,7 @@
  <ul>
  <li>Live: -----
  <li>
- Packages used/libraries: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
